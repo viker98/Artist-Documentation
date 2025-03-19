@@ -2,7 +2,7 @@
 Documentation for the Artist's at UIW to help them use things like P4/Perforce and other various things to make their workflow easier.
 
 # Contact info if you have any questions about anything.
-- Discord (best way to get to me) [Viker98](https://www.google.com/)
+- Discord (best way to get to me) [Viker98](https://discord.com/users/335315067086045184)
 - Email ```AshtonKoranek@gmail.com```
 - **Last Resort dont use unless you really need my help.** My phone number 361-243-2243
 
