@@ -9,7 +9,6 @@ Documentation for the Artist's at UIW to help them use things like P4/Perforce a
 # Contact info if you have any questions about anything.
 - Discord (best way to get to me) [Viker98](https://discord.com/users/335315067086045184)
 - Email ```AshtonKoranek@gmail.com```
-- My phone number ```361-243-2243```
 
 # Other places to look for information if its not here
 - Youtube usually will have answers to everything
