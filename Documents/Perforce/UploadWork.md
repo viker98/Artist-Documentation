@@ -1,3 +1,6 @@
+### [Back to the Table of Contents](../Perforce/General_InformationPerforce.md)
+
+
 # Perforce Upload Work Tutorial
 
 1. After you have saved everything to the workspace that you have been using you will want to open P4 to the workspace and then **right click** all of the folders that have new or edited files that you either added or edited. After right clicking the folder from the new menu you wanna click ``Mark For Add``
@@ -21,3 +24,5 @@
 4. This menu should pop up. Basically the top is a description you will write about what you are about to sumbit so if you finished a model or animation say thats what you did. The bottom half is the files you are submiting. By default it should have everything checked but fill free to check to make sure everything is getting submitted. After writing a description and making sure its got all of your files you will click the ``Submit`` button at the bottom and you should be good **NOTE This is usually where something breaks so if something does fill free to try and contact me if you need help**
  
 <img src="../Pictures/ChangeListMenu.png">
+
+### [Back to the Table of Contents](../Perforce/General_InformationPerforce.md)
